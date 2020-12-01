@@ -4,10 +4,6 @@
 
 To run the application you will need a [Twilio account] and Node.js and npm installed. Start by cloning or downloading the repo to your machine.
 
-```bash
-git clone https://_agilno@bitbucket.org/agilno/splithealthtech.git
-cd splithealthtech
-```
 
 Install the dependencies:
 
